@@ -11,5 +11,11 @@ my progress in the book "Python for Everybody" :
         of the program which is "a program is a set of statements or instructions for the computer
         to do a certain task or a calculation" and I knew the difference between Syntax errors and
         Logic errors and Semantic errors, and I also knew what Debugging means.
+    
 
-
+    chapter 2 :
+        In this chapter, I learned about values and some data types, and I also learned about
+        variables and how to name them and assign them, and I also learned about Statements 
+        Operators and operands and the order of operations and I learned about String operations
+        and string concatenation and how to get info from the user via the built-in function 
+        "input", and I learned how to comment and how important comments are. 
