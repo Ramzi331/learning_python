@@ -27,3 +27,12 @@ chapter 3 :
         in this chapter, I learned about boolean and comparisons and logical operators, and I also
         learned about conditional execution "if else and elif" and nested conditionals and short
         circuit, and I learned about try and except.
+
+
+chapter 4 :
+        in this chapter, I learned that functions are a named sequence of statements that performs
+        computation and "returns" the result, which means it's a block of code that I can use as 
+        much as I want in the same program, and this block of code could be called by the functions
+        name and could take as many values/variables "arguments" as I want it to take!
+        and I learned about the built-in functions and how to make my own functions, I also learned
+        about the flow of execution.
