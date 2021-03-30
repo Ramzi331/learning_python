@@ -2,6 +2,8 @@
 In this repository i will be writing about my progress in learning Python programming language..
 
 my progress in the book "Python for Everybody" :
+
+
     Chapter 1 :
         In this chapter, I understood the components of the computer and how they work together
         to execute my instructions "code" and how the processor works, and I also wrote my first
@@ -19,3 +21,9 @@ my progress in the book "Python for Everybody" :
         Operators and operands and the order of operations and I learned about String operations
         and string concatenation and how to get info from the user via the built-in function 
         "input", and I learned how to comment and how important comments are. 
+
+
+chapter 3 :
+        in this chapter, I learned about boolean and comparisons and logical operators, and I also
+        learned about conditional execution "if else and elif" and nested conditionals and short
+        circuit, and I learned about try and except.
