@@ -36,3 +36,19 @@ chapter 4 :
         name and could take as many values/variables "arguments" as I want it to take!
         and I learned about the built-in functions and how to make my own functions, I also learned
         about the flow of execution.
+
+
+
+Chapter 5 :
+        In this chapter, I learned how to update variables and I learned about while and for loops, 
+        and I learned about infinite loops and how to "break" a loop or to "continue" one.
+
+
+chapter 6 :
+        In this chapter, I learned about strings and that a string is a sequence of characters, and
+        I learned about string Indexes and slicing by index, and I also learned that string is 
+        immutable, and I learned how to loop through strings, and I learned about the in operator and
+        string comparison, and I learned about a function called "dir" which lists the "methods" 
+        available for an object, and another function called "help" that I can use to get some simple
+        documentation on a method, and I learned about string parsing, and I learned about the "format"
+        operator and how to use it.
