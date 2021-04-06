@@ -52,3 +52,17 @@ chapter 6 :
         available for an object, and another function called "help" that I can use to get some simple
         documentation on a method, and I learned about string parsing, and I learned about the "format"
         operator and how to use it.
+
+
+
+chapter 7 :
+        in this chapter, I learned how to open and read text files and how to search through them,
+        and I also learned how to avoid the missing file errors using try and accept, and I learned 
+        how to open a file and write something in it and close it.
+
+
+chapter 8:
+        in this chapter, I learned about the lists and how to create them and that they are mutable,
+        and I learned about lists methods and functions and I knew how similar strings and lists are
+        and how to turn a list of characters into a string and how to turn a string into a list of 
+        characters, and I also learned about objects and values.
