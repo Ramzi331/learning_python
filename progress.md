@@ -66,3 +66,10 @@ chapter 8:
         and I learned about lists methods and functions and I knew how similar strings and lists are
         and how to turn a list of characters into a string and how to turn a string into a list of 
         characters, and I also learned about objects and values.
+
+
+
+chapter 9:
+       in this chapter, I learned about dictionaries and how to create them, and how to use them as
+       a set of counters which is called "histogram", and I also learned about nested loops, and I
+       also learned some advanced text parsing methods.
