@@ -73,3 +73,14 @@ chapter 9:
        in this chapter, I learned about dictionaries and how to create them, and how to use them as
        a set of counters which is called "histogram", and I also learned about nested loops, and I
        also learned some advanced text parsing methods.
+
+
+
+chapter 10:
+      in this chapter, I learned about tuples and that they are immutable, and that a tuple is a
+      sequence of values much like a list, the values stored in a tuple can be any type, and they
+      are indexed by integers, tuples are also comparable and hashable so we can sort lists of
+      them and use tuples as key values in Python dictionaries.
+      syntactically, a tuple is a comma-separated list of values, although it is not necessary,
+      it is common to enclose tuples in parentheses to help us quickly identify tuples when 
+      we look at Python code, and I learned about tuple assignment.
